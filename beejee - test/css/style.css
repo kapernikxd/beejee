@@ -1,0 +1,45 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+p {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+
+
+table {
+    font-size: 14px;
+    border-collapse: collapse;
+    text-align: center;
+}
+th  {
+    background: #AFCDE7;
+    color: white;
+    padding: 10px 20px;
+}
+th, td {
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    border-color: white;
+    max-width: 200px;
+}
+td {
+    background: #D8E6F3;
+}
+
+
+.table__check {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+.alert {
+    text-align: center !important;
+    margin-bottom: 0px !important;
+}
+
+
